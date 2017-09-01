@@ -14,5 +14,7 @@ Remember that the power of React is its ability to divide responsibilities throu
 
 [List of All Apis Ever](https://github.com/toddmotto/public-apis)
 
-Deadline: Tuesday 9AM
+**Deadline: Tuesday 9AM**
+
+**Note: Use create-react-app to create your project**
 
